@@ -1,4 +1,12 @@
 {
+  // 컴파일 포함
+  "include": [
+    "src/*.ts"
+  ],
+  // 컴파일 제외
+  "exclude": [
+    "node_modules"
+  ],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
